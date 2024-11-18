@@ -27,7 +27,7 @@ buat list raport lagi dengan tambahan .append untuk menambah hasil input yang di
 
 buat perulangan if untuk menanyakan apakah akan menambah atau tidak dengan pilihan ya/tidak dan jika dipilih tidak maka akan break atau selesai
 
-2. 
+2. buat daftar absen nilai dengan nama, nim, tugas, uts, uas, nilai akhir beserta hasilnya dibawah yang disebutkan
 
 ![program 2](https://github.com/user-attachments/assets/1b06e497-ca43-4620-8d88-7d1bbff0d3e5)
 
