@@ -16,9 +16,16 @@ Sesuai dengan tugas yang diberikan, saya akan menjelaskan langkah - langkah yang
 
 1. membuat list dan perulangan
 
-langkah awal adalah membuat list dengan variable raport
+langkah awal adalah membuat list dengan variable raport di bagian paling atas
+
 ![program1](https://github.com/user-attachments/assets/cdc7e88d-947c-40ec-896b-7d2b393f67ee)
 
+lalu buat perulangan while true dan isi dengan input nama, nim, nilai tugas, uts dan uas.
+untuk nilai tugas dikali 30%, uts dan uas dikali 35% lalu di tambah dan dimasukkan di nilai akhir.
+
+buat list raport lagi dengan tambahan .append untuk menambah hasil input yang diberikan.
+
+buat perulangan if untuk menanyakan apakah akan menambah atau tidak dengan pilihan ya/tidak dan jika dipilih tidak maka akan break atau selesai
 
 2. 
 
