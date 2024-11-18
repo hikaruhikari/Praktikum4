@@ -33,13 +33,18 @@ buat perulangan if untuk menanyakan apakah akan menambah atau tidak dengan pilih
 
 disini saya menggunakan perulangan for agar memudahkan dalam menginput list raport
 
+3. ini adalah seluruh hasil program yang dibuat
+   
 ![program full](https://github.com/user-attachments/assets/89058b85-a6d2-4dab-aa76-cb8feb1f1463)
 
-3. ini adalah seluruh hasil program yang dibuat
+4. ini adalah hasil dari program yang dibuat
    
 ![hasil](https://github.com/user-attachments/assets/ce109c8e-adc4-436c-a7ef-8400af5ff4af)
 
-4. ini adalah hasil dari program yang dibuat
+5. ini adalah flowchart yang dibuat sesuai dengan program yang saya buat, walau terlihat padat dan kompleks tapi inilah hasil flowchart yang saya buat sendiri
 
 ![Flowchart](https://github.com/user-attachments/assets/deb8727e-b821-448a-856d-a31929c4e927)
 
+baiklah, itulah tugas yang sudah saya kerjakan, jika ada yang salah mohon dikoreksi agar menjadi pembelajaran bagi saya
+
+terima kasih
