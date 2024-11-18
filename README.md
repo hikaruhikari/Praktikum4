@@ -17,16 +17,20 @@ Sesuai dengan tugas yang diberikan, saya akan menjelaskan langkah - langkah yang
 1. membuat list dan perulangan
 
 langkah awal adalah membuat list dengan variable raport
-https://github.com/hikaruhikari/Praktikum4/blob/main/program1.jpg
+![program1](https://github.com/user-attachments/assets/cdc7e88d-947c-40ec-896b-7d2b393f67ee)
+
 
 2. 
-https://github.com/hikaruhikari/Praktikum4/blob/main/program%202.jpg
 
-https://github.com/hikaruhikari/Praktikum4/blob/main/program%20full.jpg
-
-
-https://github.com/hikaruhikari/Praktikum4/blob/main/hasil.jpg
+![program 2](https://github.com/user-attachments/assets/1b06e497-ca43-4620-8d88-7d1bbff0d3e5)
 
 
 
-https://github.com/hikaruhikari/Praktikum4/blob/main/Flowchart.jpg
+
+![program full](https://github.com/user-attachments/assets/89058b85-a6d2-4dab-aa76-cb8feb1f1463)
+![hasil](https://github.com/user-attachments/assets/ce109c8e-adc4-436c-a7ef-8400af5ff4af)
+
+
+
+![Flowchart](https://github.com/user-attachments/assets/deb8727e-b821-448a-856d-a31929c4e927)
+
