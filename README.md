@@ -31,13 +31,15 @@ buat perulangan if untuk menanyakan apakah akan menambah atau tidak dengan pilih
 
 ![program 2](https://github.com/user-attachments/assets/1b06e497-ca43-4620-8d88-7d1bbff0d3e5)
 
-
-
+disini saya menggunakan perulangan for agar memudahkan dalam menginput list raport
 
 ![program full](https://github.com/user-attachments/assets/89058b85-a6d2-4dab-aa76-cb8feb1f1463)
+
+3. ini adalah seluruh hasil program yang dibuat
+   
 ![hasil](https://github.com/user-attachments/assets/ce109c8e-adc4-436c-a7ef-8400af5ff4af)
 
-
+4. ini adalah hasil dari program yang dibuat
 
 ![Flowchart](https://github.com/user-attachments/assets/deb8727e-b821-448a-856d-a31929c4e927)
 
